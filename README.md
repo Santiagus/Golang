@@ -42,38 +42,29 @@ Golang
 
 ## Common tools used among projects in the repo
 
-## Source Control
-* [GitHub](https://github.com/)
+## IDE
 * [Visual Studio Online](https://vscode.dev/)
 - [Go plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=golang.go)
 
+## Source Control
+* [GitHub](https://github.com/)
+
 ## Build/Package Tool
-* [Build](https://github.com/pypa/build)
-* [setuptools](https://pypi.org/project/setuptools/)
-* [PyBuilder](https://pybuilder.io/)
-* [scikit-build](https://scikit-build.readthedocs.io/en/latest/)  
-* [Spack](https://github.com/spack/spack)
-* [Conda](https://conda.io/en/latest/index.html)
+* Integrated tools (go build)
  
 ## Continuous Integration
-  * [Jenkins CI](https://jenkins-ci.org/)
+* [Jenkins CI](https://jenkins-ci.org/)
    
-## Static Analyzers
-* [wemake-python-styleguide](https://analysis-tools.dev/tag/go)
-* [mypy](https://github.com/python/mypy)
-* [Codacy](https://www.codacy.com/)
-* [Codefactor](https://www.codefactor.io/)
-* [Pylint](https://github.com/pylint-dev/pylint)
-* [flake8](https://flake8.pycqa.org/en/latest/)
-* [pylint-django](https://github.com/pylint-dev/pylint-django)
+## [Static Analyzers](https://analysis-tools.dev/tag/go)
 
 ## Code Formatting / Naming
-* [Black](https://pypi.org/project/black/)
+* [Gofmt](https://pkg.go.dev/cmd/gofmt)
 
 ## Testing
-    https://pkg.go.dev/testing
-    https://go.dev/doc/security/fuzz/
+* https://pkg.go.dev/testing
+* https://go.dev/doc/security/fuzz/
 
 ## PROFILING
 ### Code Coverage Analysis
-    https://golangdocs.com/profiling-in-golang
+* https://golangdocs.com/profiling-in-golang
+* https://go.dev/doc/diagnostics
