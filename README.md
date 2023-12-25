@@ -2,7 +2,7 @@
 
 Golang Playground to keep track of related projects.
 
-Objetive is to save ready to run projects/code for future reference.
+Objetive is to save ready to run projects/code for future reference or use it as tutorials.
 
 ## [Installation](https://go.dev/doc/install)
 
