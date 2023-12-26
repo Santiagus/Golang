@@ -4,6 +4,8 @@ Golang Playground to keep track of related projects.
 
 Objetive is to save ready to run projects/code for future reference or use it as tutorials.
 
+First projects are based on https://go.dev/doc/tutorial/
+
 ## [Installation](https://go.dev/doc/install)
 
 Following instructions are for Linux OS
