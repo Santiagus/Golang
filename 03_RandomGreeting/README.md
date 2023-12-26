@@ -6,8 +6,7 @@ This project is an update of previous project 02_ErrorHandling, it will add use 
 
 1. Copy 02_ErrorHandling to a new folder.
     ```bash
-    Golang/$ mkdir 03_RandomGreeting
-    Golang/$ cp -r 02_ErrorHandling/* 03_RandomGreeting/
+    Golang/$ cp -r 02_ErrorHandling/ 03_RandomGreeting/
     Golang/$ cd 03_RandomGreeting
     Golang/03_RandomGreeting/$
     ```
