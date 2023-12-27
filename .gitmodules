@@ -1,0 +1,3 @@
+[submodule "07_MultiModuleProject/example"]
+	path = 07_MultiModuleProject/example
+	url = https://go.googlesource.com/example
